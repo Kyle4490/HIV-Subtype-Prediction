@@ -1,5 +1,7 @@
 ## HIV-1 Subtype Classification 
 
+K. Wade, **L. Chen**, A. Deng, G. Zhou
+
 #### Background 
 
 * HIV-1 is classified into 4 groups: M, N, O, and P, and of these groups, group M is the most widespread and clinically relevant. 
