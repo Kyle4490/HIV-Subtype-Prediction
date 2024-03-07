@@ -53,28 +53,7 @@
     * Cohen's Kappa 
     
 At our meeting, we had discussed evaluating our models with and without applying feature selection. 
-
-
-#### Distribution of Tasks 
-
-##### Experiments 
-* Processing data - Kaitlyn  
-* Vectorize DNA Sequences** - Gen and Kaitlyn 
-    * Kaitlyn: k-mers, natural (and sub-sequence) vectors
-    * Gen: Word2Vec, other natural language encoding methods 
-* Feature Selection: Alana 
-* Machine Learning and Deep Learning: Kyle - Done!
-* Multi-task Learning - ? 
-
-##### Paper
-* Background and introduction: Kaitlyn 
-* Methods 
-    * Data-processing: Kaitlyn 
-    * Sequence vectorization: Kaitlyn and Gen 
-    * Feature Selection: Alana 
-    * ML/DL: Kyle 
-* Results and Discussion: Kyle 
-* Figures: Kyle  
+ 
 
 #### Dataset and Availability 
 
